@@ -1,8 +1,7 @@
 <div align="center">
 <p>
   <br>
-  <h3 align = "center"><b>🐕 About me 🐕</b></h3>
-  Kim Yunho<br>
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=YunhoKim&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
   Study coding for a better life </b><br>
   <br>
 </p>
