@@ -1,15 +1,12 @@
-<div align="center">
+<div>
 <p>
-  <br>
   ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=YunhoKim&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-  Study coding for a better life </b><br>
-  <br>
 </p>
   
 #
 <br>
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<h3>📚 Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -28,8 +25,8 @@
 
 #
 <br>
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+<h3>🌈 Follow Me</h3>
+<p>
   <a href="https://www.instagram.com/ua1it/"><img src="https://img.shields.io/badge/ua1it-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
   <a href="mailto:hoo9909@naver.com"><img src="https://img.shields.io/badge/hoo9909@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
 </p>
