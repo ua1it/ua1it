@@ -8,7 +8,7 @@
 </p>
   
 #
-
+<br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -25,12 +25,15 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
 </p>
+<br>
 
 #
+<br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/ua1it/"><img src="https://img.shields.io/badge/ua1it-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
   <a href="mailto:hoo9909@naver.com"><img src="https://img.shields.io/badge/hoo9909@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
 </p>
+<br>
 
 </div>
