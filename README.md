@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=%20Kimyunho&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+<p>
+Kimyunho <br>
+Study coding for a better life <br>
+<br>
+<a href="https://www.instagram.com/ua1it/"><img src="https://img.shields.io/badge/ua1it-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
+<a href="mailto:hoo9909@naver.com"><img src="https://img.shields.io/badge/hoo9909@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
+</p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
