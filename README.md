@@ -1,17 +1,17 @@
 <div align="center">
 <p>
   <h3 align = "center"><b>🐕 About me 🐕</b></h3>
-  <b>Kimyunho <br>
+  <span class="evidence">Kimyunho</span>
   Study coding for a better life </b><br>
 </p>
-<
+---
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 
 [![Kimyunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ua1it&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/ua1it/github-readme-stats)
 
 
-
+---
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
 </p>
-
+---
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
