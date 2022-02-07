@@ -1,7 +1,7 @@
 <div align="center">
 <p>
   <h3 align = "center"><b>🐕 About me 🐕</b></h3>
-  <span class="evidence">Kimyunho</span>
+  Kim Yunho<br>
   Study coding for a better life </b><br>
 </p>
   
