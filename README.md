@@ -8,7 +8,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 
-[![Kimyunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyh&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kimyh/github-readme-stats)
+[![Kimyunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyho&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kimyho/github-readme-stats)
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
