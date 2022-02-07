@@ -1,9 +1,7 @@
-<p>
-Kimyunho <br>
-Study coding for a better life <br>
-<br>
-<a href="https://www.instagram.com/ua1it/"><img src="https://img.shields.io/badge/ua1it-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
-<a href="mailto:hoo9909@naver.com"><img src="https://img.shields.io/badge/hoo9909@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
+<p align = "center">
+  <h3><b>:ghost: About me :ghost:</b></h3>
+  Kimyunho <br>
+  Study coding for a better life <br>
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
@@ -26,7 +24,7 @@ Study coding for a better life <br>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://www.instagram.com/ua1it/"><img src="https://img.shields.io/badge/ua1it-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>&nbsp
+  <a href="mailto:hoo9909@naver.com"><img src="https://img.shields.io/badge/hoo9909@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&"/></a>&nbsp
+</p>
 </p>
