@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logoColor=white"> &nbsp
 </p>
 
 #
